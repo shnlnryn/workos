@@ -34,7 +34,7 @@ catalog:
   # decorators ignore their `context` argument.
   vite: 7.3.6
   vite-plus: ^1.0.0
-  vitest: ^4.1.11
+  vitest: ^5.0.3
   # Vitest's browser-mode provider, which must match vitest's version, and the Playwright it
   # drives. Playwright's browsers are not dependencies: `playwright install chromium` fetches them.
   '@vitest/browser-playwright': ^4.1.11
